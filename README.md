@@ -1,0 +1,3 @@
+# JavaScript-DIY
+
+Academic homeworks
